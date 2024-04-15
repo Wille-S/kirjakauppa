@@ -43,4 +43,4 @@ node dataRestPalvelin configTilaukset.json
 #### Alkunäkymä
 Valitse + ja - painikkeista mitä kirjoja haluat tilata ja paina lisätiedot painiketta nähdäksesi lisätietoja kirjasta. Tämän jälkeen paina siirrä kassalle painiketta.
 #### Tilausyhteenveto
-Täytä kaikki kentät ja paina lähetä näppäintä lähettääksesi tilauksen tilaukset.json tiedostoon. Jos prosessi onnistui, siittä tulee ilmoitus.
+Täytä kaikki kentät ja paina lähetä näppäintä lähettääksesi tilauksen tilaukset.json tiedostoon. Jos prosessi onnistui, siitä tulee ilmoitus.
