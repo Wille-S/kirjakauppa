@@ -35,5 +35,12 @@ cd datapalvelin
 node datapalvelin configKirjat.json
 ```
 ```bash
-node dataRestPalvelin configTilaukset.json
+node dataRestPalvelin configTilaukset.json 
 ```
+
+### Käyttö
+
+#### Alkunäkymä
+Valitse + ja - painikkeista mitä kirjoja haluat tilata ja paina lisätiedot painiketta nähdäksesi lisätietoja kirjasta. Tämän jälkeen paina siirrä kassalle painiketta.
+#### Tilausyhteenveto
+Täytä kaikki kentät ja paina lähetä näppäintä lähettääksesi tilauksen tilaukset.json tiedostoon. Jos prosessi onnistui, siittä tulee ilmoitus.
