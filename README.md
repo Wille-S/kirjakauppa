@@ -1,4 +1,4 @@
-![image](https://github.com/Wille-S/kirjakauppa/assets/144103119/4275b4f2-3d5e-448c-85dd-ea70970b7b66)# Kirjakauppa
+# Kirjakauppa
 
 Kirjakauppa sovelluksella pystyt lisäämään kirjoja ostoskoriin, täyttämään tilaajan tiedot ja lähettämään tilauksen tilaukset.json tiedostoon.
 
