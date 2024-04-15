@@ -1,0 +1,8 @@
+{
+    "varastotiedosto":"tilaukset.json",
+    "perusavain":"tilausnumero",
+    "hakuavain":["tilausnumero", "tilauspvm"],
+    "resurssi":"tilaukset",
+    "kuvakansio":"kuvat",
+    "muunnin":"tilauksetsovitin.js"
+}

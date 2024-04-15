@@ -1,0 +1,8 @@
+{
+    "varastotiedosto":"kirjat.json",
+    "perusavain":"id",
+    "hakuavain":["id", "nimi", "hinta", "kieli", "kustantaja"],
+    "resurssi":"kirjat",
+    "kuvakansio":"kuvat",
+    "muunnin":"kirjasovitin.js"
+}

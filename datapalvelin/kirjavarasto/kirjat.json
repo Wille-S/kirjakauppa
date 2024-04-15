@@ -1,0 +1,65 @@
+[
+    {
+        "id":1,
+        "nimi":"Node & React ABC",
+        "tekijä":{
+            "etunimi":"Leila",
+            "sukunimi":"Hökki"
+        },
+        "julkaisuvuosi":2000,
+        "sivut":233,
+        "kustantaja":"Kustannus Oy Hökki ja kumppanit",
+        "sidosasu":"kovakantinen",
+        "isbn":"999-999-99-9999-9",
+        "hinta":34.90,
+        "tuoteryhmä":["tietokirja"],
+        "avainsanat":["Ohjelmointi","Node", "React"],
+        "kieli":"suomi",
+        "kuvaus":["Perustiedot node ja react ohjelmoinnista.",
+                    "Ehdottoman tarpeellinen kaikille."
+                ],
+        "varastotilanne":7,
+        "kuva":"NodeReactABC.png"
+    },
+    {
+        "id":2,
+        "nimi":"Node Basics",
+        "tekijä":{
+            "etunimi":"Basil",
+            "sukunimi":"Nodeson"
+        },
+        "julkaisuvuosi":2022,
+        "sivut":533,
+        "kustantaja":"Node Publications",
+        "sidosasu":"pehmeäkantinen",
+        "isbn":"998-998-98-9998-8",
+        "hinta":45,
+        "tuoteryhmä":["tietokirja"],
+        "avainsanat":["Ohjelmointi","Node", "React"],
+        "kieli":"englanti",
+        "kuvaus":["Tunnetun englantilaisen Node-asiantuntijan",
+        "mestariteos."],
+        "varastotilanne":2,
+        "kuva":"NodeBasics.png"
+    },{
+        "id":3,
+        "nimi":"Reactia retkeilijöille",
+        "tekijä":{
+            "etunimi":"Orvokki",
+            "sukunimi":"Keto"
+        },
+        "julkaisuvuosi":2023,
+        "sivut":33,
+        "kustantaja":"Altair Oy",
+        "sidosasu":"kovakantinen",
+        "isbn":"997-997-97-9997-7",
+        "hinta":20,
+        "tuoteryhmä":["tietokirja"],
+        "avainsanat":["Retkeily", "elämäntapaopas"],
+        "kieli":"suomi",
+        "kuvaus":["Mainio kirja mukaan telttaretkelle.",
+            "Kun kännykän kenttä loppuu, tästä löytyy apu."],
+        "varastotilanne":12,
+        "kuva":"Retkireact.png"
+    }
+]
